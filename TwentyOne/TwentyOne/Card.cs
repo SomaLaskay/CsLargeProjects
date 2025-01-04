@@ -8,7 +8,6 @@ namespace TwentyOne
 {
     public class Card
     {
-        
         public Suit Suit { get; set; }
         public Face Face { get; set; }
     }
