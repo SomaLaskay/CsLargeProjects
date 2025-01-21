@@ -21,7 +21,7 @@
       <a href="https://github.com/SomaLaskay/CsLargeProjects/tree/f5f27bf781df9d555ad33163f5497083e21cdfd1/Iteration">Iteration</a> | 
       <a href="https://github.com/SomaLaskay/CsLargeProjects/tree/f5f27bf781df9d555ad33163f5497083e21cdfd1/MethodsAndObjects">Methods And Objects</a> | 
       <a href="https://github.com/SomaLaskay/CsLargeProjects/tree/f5f27bf781df9d555ad33163f5497083e21cdfd1/Strings%20and%20Integers%20Assignment">Strings and Integers Assignment</a> | 
-      <a href="https://github.com/SomaLaskay/CsLargeProjects/tree/f5f27bf781df9d555ad33163f5497083e21cdfd1/welAcme">welAcme</a>
+      <a href="https://github.com/SomaLaskay/CsLargeProjects/tree/f5f27bf781df9d555ad33163f5497083e21cdfd1/welAcme">welAcme</a> | 
       <a href="https://github.com/SomaLaskay/CsLargeProjects/tree/master/Lambda%20Expression%20Assignment">Lambda Expressions</a>
     </div>
     <div>
